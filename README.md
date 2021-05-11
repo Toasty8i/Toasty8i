@@ -7,3 +7,4 @@
 <img src="https://komarev.com/ghpvc/?username=Toasty8i&color=grey">
 </p>
 <p align="center">
+    <a href="https://discord.gg/JKJrPvhQxT">Discord Server</a>
