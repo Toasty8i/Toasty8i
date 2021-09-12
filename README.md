@@ -8,7 +8,7 @@
 </p>
 <p align="center">
      <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/310121190637174785.png" />
+  <img src="https://discord.c99.nl/widget/theme-5/310121190637174785.png" />
 </p>
 <p align="center">
     <a href="https://discord.gg/JKJrPvhQxT">Discord Server</a>
