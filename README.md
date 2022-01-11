@@ -8,7 +8,7 @@
 </p>
 <p align="center">
      <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/303105448964521984.png" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/930531031910596648)](https://discord.com/users/930531031910596648)
 </p>
 <p align="center">
     <a href="https://discord.gg/JKJrPvhQxT">Discord Server</a>
