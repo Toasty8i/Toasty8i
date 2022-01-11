@@ -6,9 +6,7 @@
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=Toasty8i&color=grey">
 </p>
-<p align="center">
-     <p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/930531031910596648)](https://discord.com/users/930531031910596648)
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/930531031910596648
+                            )](https://discord.com/users/930531031910596648)
 <p align="center">
     <a href="https://discord.gg/JKJrPvhQxT">Discord Server</a>
